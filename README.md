@@ -48,10 +48,10 @@ The dataset used in this project were obtained from Kaggle.
 
 **Seaborn:** import seaborn as sns
 
-**Cluster:**import sklearn.cluster as cluster
-**Kmeans:**from sklearn.cluster import KMeans
-**PCA:**from sklearn.decomposition import PCA
-**silhouette_samples & silhouette_score:**from sklearn.metrics import silhouette_samples, silhouette_score
+**Cluster:** import sklearn.cluster as cluster
+**Kmeans:** from sklearn.cluster import KMeans
+**PCA:** from sklearn.decomposition import PCA
+**silhouette_samples & silhouette_score:** from sklearn.metrics import silhouette_samples, silhouette_score
 
 
 
